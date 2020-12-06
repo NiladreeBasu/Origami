@@ -1,0 +1,19 @@
+.heading{
+    background-color: dodgerblue;
+    border: solid;
+    border-color: gold;   
+}
+
+.links{
+    background: rgba(1, 255, 56, 0.493);
+    border: solid;
+    border-color: rgb(233, 182, 88);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pics{
+    background-color: lightskyblue;
+    border: solid;
+    border-color: hotpink;
+}
